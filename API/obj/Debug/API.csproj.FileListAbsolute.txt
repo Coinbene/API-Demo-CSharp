@@ -1,0 +1,5 @@
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\API\bin\Debug\API.dll
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\API\bin\Debug\API.pdb
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\API\obj\Debug\API.dll
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\API\obj\Debug\API.pdb

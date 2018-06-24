@@ -1,0 +1,8 @@
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\Test\bin\Debug\Test.exe.config
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\Test\bin\Debug\Test.exe
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\Test\bin\Debug\Test.pdb
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\Test\bin\Debug\API.dll
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\Test\bin\Debug\API.pdb
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\Test\obj\Debug\Test.exe
+c:\users\wangd\documents\visual studio 2015\Projects\BlockChainTrade\API CShart Demo\Test\obj\Debug\Test.pdb
